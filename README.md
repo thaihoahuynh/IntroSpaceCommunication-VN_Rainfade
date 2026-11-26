@@ -35,9 +35,10 @@ time and SHA-256 checksum of every file so the copy can be verified.
 
 ## Team
 
-| Member | Role |
-|---|---|
+| Member | 
+|---|
 | Huynh Thai Hoa | 
 | Tran Ngoc Hai Trieu | 
 | Le Thao My |
+
 All data sources are listed in `data/provenance.csv`.
