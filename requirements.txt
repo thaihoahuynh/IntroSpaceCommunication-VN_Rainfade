@@ -1,0 +1,7 @@
+requests>=2.32
+numpy
+pandas
+matplotlib
+scipy
+pytest
+itur==0.4.0   # validation only - never imported by the core model
