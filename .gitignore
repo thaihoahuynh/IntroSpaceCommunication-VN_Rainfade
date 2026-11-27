@@ -1,0 +1,16 @@
+# Large downloaded files: re-create them with `python scripts/fetch_data.py`
+# (URL + SHA-256 for each file are kept in data/provenance.csv)
+data/raw/*.zip
+data/raw/*.part
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+~$*
