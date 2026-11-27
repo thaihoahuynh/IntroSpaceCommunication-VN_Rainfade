@@ -1,4 +1,4 @@
-# IntroSpaceCommunication-VN_Rainfade
+
 # Rain Attenuation and Link Availability across Vietnam
 
 PH035IU Introduction to Space Communications - Group Project 2 (Fall 2026)
